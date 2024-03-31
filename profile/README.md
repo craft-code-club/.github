@@ -13,3 +13,6 @@ Embark on a journey of discovery and innovation at the Craft & Code Club – you
 We're a community where conversation, collaboration, and creativity converge. Here, every line of code counts, and every design decision shapes the future.
 
 **Join the Craft & Code Club—where coding is our craft and technology is our canvas.**
+
+▶️ Youtube Channel: http://www.youtube.com/@CraftCodeClub
+💬 Discord Server: https://discord.gg/V7hQJZSDYu
