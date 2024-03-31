@@ -15,4 +15,5 @@ We're a community where conversation, collaboration, and creativity converge. He
 **Join the Craft & Code Club—where coding is our craft and technology is our canvas.**
 
 ▶️ Youtube Channel: http://www.youtube.com/@CraftCodeClub
+
 💬 Discord Server: https://discord.gg/V7hQJZSDYu
