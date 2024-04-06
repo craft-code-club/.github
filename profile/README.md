@@ -17,3 +17,5 @@ We're a community where conversation, collaboration, and creativity converge. He
 ▶️ Youtube Channel: http://www.youtube.com/@CraftCodeClub
 
 💬 Discord Server: https://discord.gg/V7hQJZSDYu
+
+📅 Meetup: https://www.meetup.com/craft-code-club
