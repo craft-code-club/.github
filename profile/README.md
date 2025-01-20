@@ -1,21 +1,32 @@
-### Welcome to the Craft & Code Club!
+### Bem vindo a Craft & Code Club!
 
 🛠️ Meet. Code. Craft. Grow. 🚀
 
-Embark on a journey of discovery and innovation at the Craft & Code Club – your destination for delving into the intricacies of Domain-Driven Design (DDD), unraveling the complexities of algorithms, and architecting elegant software solutions.
+[**💬 Entrar no Discord**](https://discord.gg/cqF9THUfnN)
 
-**Our Community's Highlights:**
-- **Deep Dives into DDD:** Explore the philosophy of domain-driven design to build software that reflects complex real-world problems.
-- **Algorithmic Adventures:** Unpack algorithms with peers, enhance your problem-solving prowess, and tackle technical interviews with confidence.
-- **Architectural Acumen:** Discuss and design robust software architectures that stand the test of time.
-- **Design & Patterns Workshops:** Master design patterns and principles to write more maintainable, scalable, and cleaner code.
+[**▶️ Canal no Youtube**](http://www.youtube.com/@CraftCodeClub)
 
-We're a community where conversation, collaboration, and creativity converge. Here, every line of code counts, and every design decision shapes the future.
+## Nossa Missão
 
-**Join the Craft & Code Club—where coding is our craft and technology is our canvas.**
+Criar um espaço colaborativo onde desenvolvedores e engenheiros de software podem aprender, compartilhar conhecimento e crescer juntos. Nosso foco está em promover as melhores práticas de desenvolvimento, Algoritmos, Estruturas de Dados, System Design, Domain-Driven Design, Arquitetura limpa e tópicos avançados.
 
-▶️ Youtube Channel: http://www.youtube.com/@CraftCodeClub
+Nosso principal objetivo é fazer com que nós, como comunidade e quanto indivíduos, possamos evoluir juntos, ajudando uns aos outros a alcançarmos o próximo nível como engenheiros de software, na carreira, e em nossos objetivos.
 
-💬 Discord Server: https://discord.gg/V7hQJZSDYu
+---
 
-📅 Meetup: https://www.meetup.com/craft-code-club
+## O Que Fazemos
+
+- Encontros recorrentes para discutirmos sobre as bases com Algoritmos e Estruturas de Dados.
+- Encontros recorrentes para discutirmos sobre System Design.
+- Clube do Livro.
+- Encontros recorrentes para discutirmos sobre Tópicos Avançados.
+- Projetos colaborativos da comunidade.
+- Comunidade ativa no Discord onde discutimos sobre os tópicos avançados e compartilhamos conhecimento.
+
+---
+
+## Participe da Comunidade
+
+Junte-se a nós para fazer parte de uma comunidade vibrante de desenvolvedores apaixonados por qualidade e artesanato de software.
+
+
