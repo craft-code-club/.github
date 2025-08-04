@@ -1,6 +1,6 @@
 # Craft & Code Club - Código de Conduta
 
-Bem-vindo(a) ao Craft & Code Club! Nossa comunidade está presente em vários canais de comunicação (como chats/Discord, eventos online, repositórios de projetos, etc) e foi criada para **fomentar a troca de conhecimento em engenharia de software** e todas as disciplinas que orbitam ao seu redor – por exemplo, **programação**, **DevOps** e **gestão de projetos**. Buscamos **difundir** práticas que promovam a **colaboração** e assegurem a **entrega de produtos de qualidade**.
+Bem-vindo(a) ao Craft & Code Club! Nossa comunidade está presente em vários canais de comunicação (como chats/Discord, eventos online, repositórios de projetos, etc) e foi criada para **fomentar a troca de conhecimento em engenharia de software** e todas as disciplinas que orbitam ao seu redor - por exemplo, **programação**, **DevOps** e **gestão de projetos**. Buscamos **difundir** práticas que promovam a **colaboração** e assegurem a **entrega de produtos de qualidade**.
 
 Queremos manter este ambiente inclusivo, aberto e respeitoso. Ao participar do Craft & Code Club, você concorda em seguir este Código de Conduta, que se aplica a todas as interações na comunidade.
 
