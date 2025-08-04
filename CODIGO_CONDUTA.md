@@ -101,7 +101,7 @@ Se você acredita ter sido acusado(a) injustamente de violar o Código de Condut
 
 ## 7. Escopo
 
-Este Código de Conduta se aplica a todos os espaços do Craft & Code Club — incluindo, mas não se limitando a:
+Este Código de Conduta se aplica a todos os espaços do Craft & Code Club - incluindo, mas não se limitando a:
 
 - Servidor Discord
 - Lives e eventos (online ou presenciais)
