@@ -1,18 +1,18 @@
 # Craft & Code Club - Código de Conduta
 
-Bem-vindo(a) ao Craft & Code Club! Nossa comunidade está presente em vários canais de comunicação (como chats/Discord, eventos online, repositórios de projetos, etc) e foi criada para **fomentar a troca de conhecimento em engenharia de software** e todas as disciplinas que orbitam ao seu redor - por exemplo, **programação**, **DevOps** e **gestão de projetos**. Buscamos **difundir** práticas que promovam a **colaboração** e assegurem a **entrega de produtos de qualidade**.
+Bem-vindos ao Craft & Code Club! A nossa comunidade está presente em vários canais de comunicação (como chats/Discord, eventos online, repositórios de projetos, etc) e foi criada para **fomentar a troca de conhecimento em engenharia de software** e todas as disciplinas que orbitam ao seu redor - por exemplo, **programação**, **DevOps** e **gestão de projetos**. Procuramos **difundir** práticas que promovam a **colaboração** e assegurem a **entrega de produtos de qualidade**.
 
-Queremos manter este ambiente inclusivo, aberto e respeitoso. Ao participar do Craft & Code Club, você concorda em seguir este Código de Conduta, que se aplica a todas as interações na comunidade.
+Pretendemos manter este ambiente inclusivo, aberto e respeitoso. Ao participar do Craft & Code Club, concorda em seguir este Código de Conduta, que se aplica a todas as interações na comunidade.
 
 ---
 
 ## 1. Finalidade
 
-- **Promover a colaboração e a troca de conhecimento**: Queremos que cada membro se sinta seguro para compartilhar ideias e fazer perguntas.
-- **Fomentar o crescimento de todos**: Independentemente do seu nível de experiência, você é bem-vindo(a). Acreditamos que todos podem ensinar e aprender.
-- **Criar um ambiente acolhedor e inclusivo**: Não importa se você é iniciante, experiente, desenvolvedor(a), engenheiro(a) de dados, DevOps, arquiteto(a) de software, designer ou estudante. Nosso espaço é para você.
+- **Promover a colaboração e a troca de conhecimento**: Pretendemos que cada membro se sinta seguro para partilhar ideias e fazer perguntas.
+- **Fomentar o crescimento de todos**: Independentemente do nível de experiência, todos são bem-vindos. Acreditamos que todos podem ensinar e aprender.
+- **Criar um ambiente acolhedor e inclusivo**: Não importa se são iniciantes, experientes, programadores, engenheiros de dados, DevOps, arquitetos de software, designers ou estudantes. O nosso espaço é para todos.
 
-Este Código de Conduta se aplica a todas as interações na nossa comunidade, seja no Discord, em eventos presenciais, nos comentários do YouTube, nos repositórios de código e em qualquer outra plataforma relacionada ao Craft & Code Club.
+Este Código de Conduta aplica-se a todas as interações na nossa comunidade, seja no Discord, em eventos presenciais, nos comentários do YouTube, nos repositórios de código e em qualquer outra plataforma relacionada ao Craft & Code Club.
 
 ---
 
@@ -22,12 +22,12 @@ Este Código de Conduta se aplica a todas as interações na nossa comunidade, s
    Trate todos os membros com cordialidade e empatia. Evite julgamentos, ofensas, ou respostas que intimidem ou diminuam alguém.
 
 2. **Use Linguagem Adequada**
-   - Palavras de baixo calão, xingamentos e linguagem ofensiva não serão tolerados.
-   - Evite compartilhar conteúdo violento, sexualmente explícito ou que possa constranger outros membros.
+   - Linguagem inadequada, insultos e linguagem ofensiva não serão tolerados.
+   - Evite partilhar conteúdo violento, sexualmente explícito ou que possa constranger outros membros.
 
 3. **Mantenha Discussões Saudáveis**
    - Foco no assunto técnico e no aprendizado mútuo.
-   - Divergências de opinião fazem parte de qualquer grupo, mas debate com respeito é essencial.
+   - Divergências de opinião fazem parte de qualquer grupo, mas o debate com respeito é essencial.
    - Evite transformar diferenças de opinião em discussões pessoais.
 
 4. **Respeite a Privacidade de Todos**
@@ -35,20 +35,20 @@ Este Código de Conduta se aplica a todas as interações na nossa comunidade, s
    - Em plataformas de chat ao vivo, tenha cuidado ao expor informações sensíveis.
 
 5. **Use os Canais de Forma Apropriada**
-   - Cada canal ou tópico tem um propósito. Utilize o canal correto para perguntas de código, infra, DevOps, AI, etc.
+   - Cada canal ou tópico tem um propósito. Use o canal correto para perguntas de código, infra, DevOps, AI, etc.
    - Perguntas fora de contexto podem ser redirecionadas pelos moderadores.
 
 6. **Faça Perguntas de Forma Construtiva**
-   - Não há pergunta "boba". Porém, pesquise antes de questionar. Ferramentas como Google ou ChatGPT podem trazer respostas rápidas.
-   - Se não quiser ou não puder ajudar, apenas se abstenha. Desencorajar quem pergunta não contribui para a comunidade.
+   - Não há pergunta "tola". No entanto, pesquise antes de questionar. Ferramentas como Google ou ChatGPT podem trazer respostas rápidas.
+   - Se não quiser ou não puder ajudar, apenas abstenha-se. Desencorajar quem pergunta não contribui para a comunidade.
 
 7. **Seja Responsável Pelo Que Diz e Escreve**
    - Evite comentários políticos e religiosos.
-   - Nada de opiniões ou piadas que soem preconceituosas, discriminatórias ou depreciativas.
+   - Evite opiniões ou piadas que soem preconceituosas, discriminatórias ou depreciativas.
 
 8. **Colabore**
    - Participe das discussões ativamente e ajude no que puder.
-   - Se você vê alguém se esforçando para manter um ambiente positivo, reconheça e valorize esse comportamento.
+   - Se vir alguém a esforçar-se para manter um ambiente positivo, reconheça e valorize esse comportamento.
 
 ---
 
@@ -59,11 +59,11 @@ Este Código de Conduta se aplica a todas as interações na nossa comunidade, s
 - **Agressões e Ataques Pessoais**
   Ofensas diretas, ameaças, perseguições, intimidações ou qualquer forma de coação.
 - **Divulgação de Conteúdo Sensível ou Ilegal**
-  Compartilhar dados privados de terceiros ou material protegido por direitos autorais sem permissão.
+  Partilhar dados privados de terceiros ou material protegido por direitos autorais sem permissão.
 - **Manifestação Política ou Religiosa que Gere Conflito**
   Qualquer posicionamento de natureza política ou religiosa feito de forma a constranger ou desrespeitar alguém, ou mesmo gerar discussões inflamadas.
 - **Desacato ou Desrespeito às Regras da Plataforma**
-  Não cumprir as diretrizes específicas de cada plataforma (Discord, YouTube, etc.) também pode resultar em medidas por parte de nossa moderação.
+  Não cumprir as diretrizes específicas de cada plataforma (Discord, YouTube, etc.) também pode resultar em medidas por parte da nossa moderação.
 
 Qualquer um desses comportamentos pode levar a advertências, suspensão e até banimento permanente, dependendo da gravidade.
 
@@ -78,7 +78,7 @@ Qualquer um desses comportamentos pode levar a advertências, suspensão e até 
 3. **Banimento**
    Em casos extremos ou após reincidência, o membro poderá ser banido permanentemente da comunidade.
 
-Nosso objetivo é sempre educar e manter um espaço seguro. Medidas punitivas serão tomadas apenas quando necessárias para proteger a comunidade.
+O nosso objetivo é sempre educar e manter um espaço seguro. Medidas punitivas serão tomadas apenas quando necessárias para proteger a comunidade.
 
 ---
 
@@ -88,20 +88,20 @@ Nosso objetivo é sempre educar e manter um espaço seguro. Medidas punitivas se
   Entre em contato imediatamente com um(a) moderador(a) ou organizador(a) do Craft & Code Club por mensagem privada no Discord, ou por e-mail indicado em [craftcodeclub.io](https://craftcodeclub.io).
 - **Relate o Máximo de Detalhes Possível**
   Se houver prints ou links, envie, para nos ajudar a entender e tomar as devidas providências.
-- **Nosso Compromisso**
-  A organização se compromete a analisar a situação com imparcialidade, tomar medidas necessárias e oferecer suporte a quem foi afetado.
+- **O Nosso Compromisso**
+  A organização compromete-se a analisar a situação com imparcialidade, tomar medidas necessárias e oferecer suporte a quem foi afetado.
 
 ---
 
 ## 6. Como Responder a uma Acusação
 
-Se você acredita ter sido acusado(a) injustamente de violar o Código de Conduta, explique sua versão dos fatos para a moderação ou organizadores. O caso será avaliado com cuidado, ouvindo todas as partes envolvidas, antes de uma decisão final.
+Se acreditar ter sido acusado injustamente de violar o Código de Conduta, explique a sua versão dos factos para a moderação ou organizadores. O caso será avaliado com cuidado, ouvindo todas as partes envolvidas, antes de uma decisão final.
 
 ---
 
 ## 7. Escopo
 
-Este Código de Conduta se aplica a todos os espaços do Craft & Code Club - incluindo, mas não se limitando a:
+Este Código de Conduta aplica-se a todos os espaços do Craft & Code Club - incluindo, mas não se limitando a:
 
 - Servidor Discord
 - Lives e eventos (online ou presenciais)
